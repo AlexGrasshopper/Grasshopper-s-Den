@@ -1,0 +1,4 @@
+Right number: 63
+Number entered: 50
+The number is not guessed
+Guesses made: 20
